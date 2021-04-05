@@ -8,9 +8,20 @@ body{
     width: 70%;
     text-align: center;
     border: 0.5px solid #999;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     margin: 3em;
     font-family: "Arial";
+}
+
+#cabecera{
+    background: blue;
+    color: white;
+    font-size: 13px;
+    padding: 5px;
+}
+
+#cabecera h1{
+    margin: 0;
 }
 
 #post h1{
